@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506030501494",
+    "firebase_url": "https://luckydigits-4c95e.firebaseio.com",
+    "project_id": "luckydigits-4c95e",
+    "storage_bucket": "luckydigits-4c95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506030501494:android:e89ac095770f6ee2",
+        "android_client_info": {
+          "package_name": "com.luckydigits.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506030501494-ealj1gbkbq701up0pqa9bgfp2u8q81s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luckydigits.android",
+            "certificate_hash": "dc60590c0475ae04ef09638b38e7b41ffc50425b"
+          }
+        },
+        {
+          "client_id": "506030501494-974loba3cc6vstdri7udu6ke4qa5ofs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0JabDqPqNLN3ApUc2sXr01xTeetSCPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506030501494-974loba3cc6vstdri7udu6ke4qa5ofs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
